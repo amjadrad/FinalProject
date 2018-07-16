@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FinalProject.iml" filepath="$PROJECT_DIR$/FinalProject.iml" />
+      <module fileurl="file://E:\Projects\FinalProjectFromGithub\FinalProject.iml" filepath="E:\Projects\FinalProjectFromGithub\FinalProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FinalProjectFromGithub.iml" filepath="$PROJECT_DIR$/.idea/FinalProjectFromGithub.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\Projects\FinalProjectFromGithub\app\app.iml" filepath="E:\Projects\FinalProjectFromGithub\app\app.iml" />
     </modules>
   </component>
 </project>
